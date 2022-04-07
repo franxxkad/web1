@@ -1,0 +1,38 @@
+body {
+  background-color: #F9F6F1;
+  margin: 10px;
+}
+
+* {
+  font-family: "Lato", sans-serif;
+}
+
+h1 {
+  color: #219F94;
+  font-size: 60px;
+  display: inline;
+}
+
+h3 {
+  color: #219F94;
+  font-size: 30px;
+}
+
+h4 {
+  color: #219F94;
+  font-size: 50px;
+}
+
+div {
+  color: #219F94;
+  margin: 35px;
+  font-size: 30px;
+}
+
+.step {
+  border: 20px solid #C1DEAE;
+}
+
+.ul-1 {
+  padding-left: 700px;
+}
